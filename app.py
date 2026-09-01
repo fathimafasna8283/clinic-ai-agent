@@ -20,7 +20,7 @@ st.title("🏥 City Health Clinic - AI Assistant")
 st.caption("24/7 Multi-lingual Voice & Text Support")
 
 # 4. Gemini Client (നിങ്ങളുടെ API Key നൽകുക)
-client = genai.Client(api_key="AQ.Ab8RN6JWaxJOg8V8S48tQpuxiDE_exNEJ8ZLPUIX_09_gNk0Xg")
+client = genai.Client(api_key="GEMINI_API_KEY")
 
 # 5. Clinic Data വായിക്കുന്നു
 @st.cache_data
