@@ -1,0 +1,6 @@
+Clinic Name: City Health Clinic
+Doctor: Dr. Arun (General Physician)
+Timings: Monday to Saturday, 9:00 AM to 5:00 PM
+Consultation Fee: ₹300
+Phone Number: 9876543210
+Location: MG Road, Ernakulam
